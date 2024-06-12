@@ -1,0 +1,8 @@
+fields:
+    id
+    userId
+    user => user
+    orders => order
+    price
+    total_price
+    count

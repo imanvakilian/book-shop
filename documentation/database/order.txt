@@ -1,0 +1,5 @@
+fields:
+    basketId
+    basket => basket
+    bookId
+    book => book

@@ -1,0 +1,7 @@
+fields:
+    id
+    user => user
+    userId
+    book => book
+    bookId
+    score

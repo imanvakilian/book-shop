@@ -1,0 +1,5 @@
+/subscription/:
+    post => / => create a subscription
+    get => / => get all subscriptions
+    get => /:id => get a subscription
+    get => /buy => buy a subscription

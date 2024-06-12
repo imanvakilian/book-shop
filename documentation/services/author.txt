@@ -1,0 +1,4 @@
+/author/:
+    post => /create => create author
+    patch => /:id => update author
+    delete => /:id => delete author

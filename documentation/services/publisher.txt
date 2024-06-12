@@ -1,0 +1,4 @@
+/publisher/:
+    post => / => create a new publisher
+    get => /:id => get publisher by id
+    delete => /:id => delete publisher by id

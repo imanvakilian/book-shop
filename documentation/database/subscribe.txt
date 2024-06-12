@@ -1,0 +1,7 @@
+fields:
+    userId
+    subscriptionId
+    user => user
+    subscription => subscription
+    expires_in
+    

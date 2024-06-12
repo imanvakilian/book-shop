@@ -1,0 +1,14 @@
+/book/:
+    post => /create => create book for sale
+    get => / => get all books
+    get => /:id => get book by id
+    get => /by-slug/:slug => get book by slug
+    patch => /:id => update book by id
+    delete => /:id => delete book
+    get => /editors-choice/:categoryId => get editors choice books by category
+    get => /by-category/:categoryId => get books by category
+    get => /by-category-slug/:categorySlug => get books by category slug
+    get => /by-author/:authorId => get books from author id
+    post => /comment/:bookId => add comment for book
+    get => /like/:bookId => like book
+    get => /bookmark/:bookId => bookmark book

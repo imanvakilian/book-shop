@@ -1,0 +1,6 @@
+fields:
+    bookId
+    userId
+    book => book
+    user => user
+    text

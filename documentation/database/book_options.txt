@@ -1,0 +1,13 @@
+fields:
+    slug
+    title
+    description
+    short_summary
+    image
+    pdf
+    audio
+    discount
+    price
+    total_price
+    count
+    editors_choice

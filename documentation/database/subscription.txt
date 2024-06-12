@@ -1,0 +1,4 @@
+fields:
+    expiration
+    price
+    discount

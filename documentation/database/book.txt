@@ -1,0 +1,12 @@
+fields:
+    id
+    options => book_options
+    category => category
+    categoryId
+    author => author
+    authorId
+    publisher => publisher
+    publisherid
+    seasons => season
+    score => book_score
+    bookmarks => book_bookmark

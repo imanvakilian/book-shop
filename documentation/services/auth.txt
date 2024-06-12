@@ -1,0 +1,3 @@
+/auth:
+    post => /register => get mobile from user
+    post => / => get otp code

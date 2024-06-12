@@ -1,0 +1,3 @@
+/category/:
+    post => /create => create category
+    delete => /:id => delete category

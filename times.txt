@@ -1,0 +1,62 @@
+day 1
+01:40 => doc
+
+day 2
+00:42 => doc
+01:00 => configs and install packages
+00:05 => user entity and otp entity
+01:00
+
+day 3
+00:45
+00:36 => finish auth endpoints
+00:24 => auth guard and crete category module
+00:30
+
+day 4
+00:17
+
+day 5
+00:51
+00:54
+01:10
+00:41
+
+day 6
+01:13
+00:38
+
+day 7
+01:30
+01:20
+
+day 8
+00:57
+01:07
+00:40
+01:11
+
+day 9
+01:22
+
+day 10
+01:00
+00:44
+
+day 11
+01:05
+00:20
+
+day 12
+00:45
+
+day 13
+01:10
+00:55
+
+day 14
+00:30
+00:26 => analize site
+01:05
+00:40
+00:20 => write documentation

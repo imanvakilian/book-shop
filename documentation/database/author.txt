@@ -1,0 +1,8 @@
+fields:
+    id
+    firstname
+    lastname
+    slug
+    about
+    alive
+    books => book

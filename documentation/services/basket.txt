@@ -1,0 +1,6 @@
+/basket/:
+    get => / => get basket
+    patch => /add/:bookId => add book to basket
+    delete => /remove => remove book from basket
+    post => /discount => get discount code and set total price
+    get => /buy => buy all items in basket

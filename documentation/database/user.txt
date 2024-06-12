@@ -1,0 +1,13 @@
+fields
+    id
+    mobile
+    bookmarks => book_bookmarks
+    scores => book_score
+    discountId
+    discount => discount
+    role
+    otpId
+    otp => otp
+    basketId
+    basket => basket
+    
